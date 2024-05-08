@@ -1,0 +1,11 @@
+/* counterr section */
+#counter-section{
+  background-image: url('./img/8man.jpg');
+  padding-top: 50px;
+  padding-bottom: 70px;
+  background-position: center;
+  background-size: cover;
+}
+.counter-icon{
+  font-size: 70px;
+}

@@ -1,0 +1,40 @@
+
+#footer {
+  background-color: #343434;
+  padding-top: 80px;
+  padding-bottom: 80px;
+}
+#footer a {
+  color: white;
+  text-decoration: none;
+}
+#footer-form {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+#footer-search-box {
+  background-color: #fcc302;
+  color: white;
+  border: 0;
+  padding: 15px;
+  width: 100%;
+  max-width: 250px;
+  position: relative;
+  left: 10px;
+}
+
+#footer-search-submit {
+  background-color: #00bec9;
+  color: white;
+  border: 0;
+  border-radius: 0;
+  padding: 15px 40px;
+}
+
+.social-icon {
+  font-size: 25px;
+  padding-left: 5px;
+  margin: 10px;
+
+}
